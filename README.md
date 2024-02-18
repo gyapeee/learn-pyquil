@@ -1,3 +1,5 @@
+# It is a learning project of quantum computing basics
+
 - install Forest SDK with quilc and qvm for local run of your QuIL program:<br/> 
 https://qcs.rigetti.com/sdk-downloads
 
